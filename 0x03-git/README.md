@@ -1,1 +1,1 @@
-A new directory created on the repository
+We have made new changes on the README.md file.
